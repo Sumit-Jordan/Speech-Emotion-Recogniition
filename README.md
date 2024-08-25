@@ -1,4 +1,4 @@
-# Speech Emotion Recogniition
+# In This Project
 ##### • Project Goals  
 The primary goal of this project is to develop a robust emotion recognition system that can classify speech samples into various emotional states, such as happiness, sadness, anger, fear, surprise, and more. By harnessing the capabilities of LSTM networks, we aim to capture the temporal dependencies in audio signals, ensuring accurate emotion detection.
 
